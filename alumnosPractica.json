@@ -1,0 +1,116 @@
+[
+    {
+        "identity": {
+            "name": "Camilo",
+            "surname": "Rosa",
+            "nikname": ["Cami", "Camo", "Camilatas"],
+            "age": 18,
+            "inPair": false
+        },
+
+        "location": {
+            "country": "Argentina",
+            "state": "Cordoba",
+            "city": "Capital"
+        },
+
+        "personality": {
+            "favouriteArtist": "Nirvana",
+            "favouriteFood": "Milanesa",
+            "favouriteAnimal": "Perro"
+        }
+        
+    },
+
+    {
+        "identity": {
+            "name": "Alejo",
+            "surname": "Aires",
+            "nikname": ["Ale", "Alejo", "Aires"],
+            "age": 18,
+            "inPair": false
+        },
+
+        "location": {
+            "country": "Argentina",
+            "state": "Misiones",
+            "city": "Posadas"
+        },
+
+        "personality": {
+            "favouriteArtist": "Mike Towers",
+            "favouriteFood": "Fideos",
+            "favouriteAnimal": "Perro"
+        }
+        
+    },
+
+    {
+        "identity": {
+            "name": "Jose Salvador",
+            "surname": "Coledani Grillo",
+            "nikname": ["Turi", "Jesus", "Dios"],
+            "age": 27,
+            "inPair": true
+        },
+
+        "location": {
+            "country": "Argentina",
+            "state": "Salta",
+            "city": "Salta"
+        },
+
+        "personality": {
+            "favouriteArtist": "Soundgarden",
+            "favouriteFood": "Asado",
+            "favouriteAnimal": "Gato"
+        }
+        
+    },
+
+    {
+        "identity": {
+            "name": "Basilio",
+            "surname": "Kontos",
+            "nikname": ["Barso", "Basi", "Catamarqueño"],
+            "age": 19,
+            "inPair": true
+        },
+
+        "location": {
+            "country": "Argentina",
+            "state": "Catamarca",
+            "city": "Catamarca"
+        },
+
+        "personality": {
+            "favouriteArtist": "La Beriso",
+            "favouriteFood": "Ravioles",
+            "favouriteAnimal": "Mono"
+        }
+        
+    },
+
+    {
+        "identity": {
+            "name": "Pedro",
+            "surname": "Cariddi",
+            "nikname": ["Pedro", "Piter", "Homero"],
+            "age": 19,
+            "inPair": false
+        },
+
+        "location": {
+            "country": "Argentina",
+            "state": "Cordoba",
+            "city": "Capital"
+        },
+
+        "personality": {
+            "favouriteArtist": "Usted Señalemelo",
+            "favouriteFood": "Tarta",
+            "favouriteAnimal": "Gato"
+        }
+        
+    }
+]

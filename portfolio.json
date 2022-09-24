@@ -1,0 +1,26 @@
+{
+    "nombre": "Camilo",
+    "apellido": "Rosa",
+    "edad": 18,
+    "ubicacion": {
+        "pais": "Argentina",
+        "provincia": "Cordoba",
+        "ciudad": "Capital"
+    },
+    "signo": "Tauro",
+    "proyectos": [
+        {
+            "numeroProyecto": 1,
+            "finalizado": true
+        },
+        {
+            "numeroProyecto": 2,
+            "finalizado": true
+        },
+        {
+            "numeroProyecto": 3,
+            "finalizado": true
+        }
+
+    ]
+}
